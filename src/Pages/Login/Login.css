@@ -1,0 +1,30 @@
+.formdetails {
+  margin-left: 400px;
+  background-color: #f91944;
+  height: 580px;
+
+  padding: 40px;
+  border-radius: 15px;
+}
+.formdetails h1 {
+  color: white;
+}
+.formbtns {
+  height: 50px;
+  width: 340px;
+  background-color: white;
+  color: black;
+  border-radius: 25px;
+  margin-left: 160px;
+  margin-top: 30px;
+  border: none;
+}
+.formbtns:hover {
+  background-color: white;
+  color: black;
+  font-size: 22px;
+  font-weight: 400;
+}
+.formfield {
+  height: 45px;
+}

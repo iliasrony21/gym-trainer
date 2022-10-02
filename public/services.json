@@ -1,0 +1,50 @@
+[
+    {
+      "id": 1,
+      "name": "personal training service",
+      "price": 56,
+      "img": "https://www.constantcontact.com/blog/wp-content/uploads/2021/01/Blog-header-1-14.jpg",
+      "description":
+        "You’re unique – as is your fitness level, lifestyle, and the results you’re hoping for. At Fitness Lab, our personal trainers understand that – so we’ll put together a plan that makes sure every moment spent in our boutique gym"
+    },
+    {
+      "id": 2,
+      "name": "Coaching service",
+      "price": 26,
+      "img": "https://images.unsplash.com/photo-1571019614242-c5c5dee9f50b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+      "description":
+        "You’re unique – as is your fitness level, lifestyle, and the results you’re hoping for. At Fitness Lab, our personal trainers understand that – so we’ll put together a plan that makes sure every moment spent in our boutique gym "
+    },
+    {
+      "id": 3,
+      "name": "customize planning service",
+      "price": 16,
+      "img": "https://bodyandstrength.com/Upload/site/uIXIc_coverr.jpg",
+      "description":
+        "You’re unique – as is your fitness level, lifestyle, and the results you’re hoping for. At Fitness Lab, our personal trainers understand that – so we’ll put together a plan that makes sure every moment spent in our boutique gym "
+    },
+    {
+      "id": 4,
+      "name": "nutrition service",
+      "price": 14,
+      "img": "https://criticalfitness.com.au/wp-content/uploads/nutrition-knowledge-personal-trainer-1024x675.jpg",
+      "description":
+        "You’re unique – as is your fitness level, lifestyle, and the results you’re hoping for. At Fitness Lab, our personal trainers understand that – so we’ll put together a plan that makes sure every moment spent in our boutique gym ."
+    },
+    {
+      "id": 5,
+      "name": "Small group training service",
+      "price": 26,
+      "img": "https://vidafitness.com/wp-content/uploads/2017/11/1.b-min-1024x683.jpeg",
+      "description":
+        "You’re unique – as is your fitness level, lifestyle, and the results you’re hoping for. At Fitness Lab, our personal trainers understand that – so we’ll put together a plan that makes sure every moment spent in our boutique gym "
+    },
+    {
+      "id": 6,
+      "name": "Therapy service",
+      "price": 36,
+      "img": "https://zhq228mcgn-flywheel.netdna-ssl.com/wp-content/uploads/2015/06/session.jpg",
+      "description":
+        "You’re unique – as is your fitness level, lifestyle, and the results you’re hoping for. At Fitness Lab, our personal trainers understand that – so we’ll put together a plan that makes sure every moment spent in our boutique gym"
+    }
+  ]

@@ -1,0 +1,24 @@
+.ExerciseFull {
+  display: flex;
+  margin-top: 150px;
+  /* background-color: #f1f1f1; */
+  padding: 40px;
+}
+.headertext {
+  font-weight: 150;
+  color: black;
+}
+.picPart {
+  width: 70%;
+  margin-left: 120px;
+}
+.exerciseText {
+  margin-top: 90px;
+  margin-left: 20px;
+}
+.docu1 {
+  margin-right: 40px;
+}
+.docutext {
+  margin-left: 96px;
+}

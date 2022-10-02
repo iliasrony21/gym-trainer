@@ -1,0 +1,66 @@
+.parts {
+  display: flex;
+  margin-right: 20px;
+  margin-left: -90px;
+}
+/* .partOne {
+  background-color: grey;
+} */
+
+.timing-details h1 {
+  font-size: 60px;
+  color: red;
+  margin-left: -90px;
+  margin-top: -90px;
+  margin-bottom: 30px;
+}
+.partOne {
+  margin-right: 20px;
+}
+.partOne p {
+  background-color: #767676;
+  padding: 12px;
+  margin-top: -9px;
+  color: white;
+  padding-left: 90px;
+  font-size: 18px;
+}
+.partOne h3 {
+  background-color: #d0d0d0;
+  padding: 20px;
+}
+.partTwo p {
+  background-color: #767676;
+  padding: 12px;
+  margin-top: -9px;
+  color: white;
+  padding-left: 60px;
+  font-size: 18px;
+}
+.partTwo h3 {
+  background-color: #d0d0d0;
+  padding: 20px;
+}
+.timing-details {
+  background-color: #222423;
+  padding: 160px;
+  margin-top: 40px;
+}
+.opening {
+  color: white;
+  font-weight: 150;
+}
+.timing-details .info {
+  color: white;
+  margin-left: -85px;
+  margin-bottom: 40px;
+}
+.pic {
+  position: absolute;
+  top: 1960px;
+  left: 340px;
+}
+.pic img {
+  height: 740px;
+  width: 1179px;
+}

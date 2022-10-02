@@ -1,0 +1,23 @@
+.cardimage {
+  width: 340px;
+  height: 170px;
+
+  width: 341px;
+}
+
+.allcard {
+  margin-bottom: 80px;
+  border-top: 25px;
+  transition: 0.5s all ease-in-out;
+}
+.text {
+  font-size: 30px;
+}
+.allcard:hover {
+  transform: scale(1.1);
+  box-shadow: 5px 8px 20px 20px rgba(20, 20, 20, 0.4);
+}
+.card-buttons {
+  margin-left: 90px;
+  border: none;
+}
